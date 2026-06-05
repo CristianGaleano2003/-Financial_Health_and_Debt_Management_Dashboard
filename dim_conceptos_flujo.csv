@@ -1,0 +1,12 @@
+concepto_id,tipo,categoria,subcategoria
+101,Ingreso,Operativo,SaaS Monthly Subscription
+102,Ingreso,Operativo,SaaS Enterprise Annual
+103,Ingreso,No Operativo,Consultoria Especializada
+104,Ingreso,No Operativo,Rendimientos Financieros
+201,Egreso,Operativo,Nomina Core Team
+202,Egreso,Operativo,Infraestructura Cloud (AWS/GCP)
+203,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack)
+204,Egreso,Marketing,Paid Media (Google/Meta Ads)
+205,Egreso,Marketing,Agencia & Diseño
+206,Egreso,Administrativo,Legal & Contabilidad
+207,Egreso,Administrativo,Oficina & Suministros
