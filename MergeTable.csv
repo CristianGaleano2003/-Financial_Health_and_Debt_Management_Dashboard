@@ -1,0 +1,265 @@
+FECHA,CONCEPTO_ID,MONTO,TIPO,CATEGORIA,SUBCATEGORIA,Monto_Original
+2024-06-01,101,32000.0,Ingreso,Operativo,SaaS Monthly Subscription,32000.0
+2024-06-01,102,15000.0,Ingreso,Operativo,SaaS Enterprise Annual,15000.0
+2024-06-01,103,8000.0,Ingreso,No Operativo,Consultoria Especializada,8000.0
+2024-06-01,104,450.0,Ingreso,No Operativo,Rendimientos Financieros,450.0
+2024-06-01,201,22000.0,Egreso,Operativo,Nomina Core Team,-22000.0
+2024-06-01,202,5100.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-5100.0
+2024-06-01,203,2400.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-2400.0
+2024-06-01,204,7500.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-7500.0
+2024-06-01,205,3000.0,Egreso,Marketing,Agencia & Diseño,-3000.0
+2024-06-01,206,1800.0,Egreso,Administrativo,Legal & Contabilidad,-1800.0
+2024-06-01,207,1200.0,Egreso,Administrativo,Oficina & Suministros,-1200.0
+2024-07-01,101,33500.0,Ingreso,Operativo,SaaS Monthly Subscription,33500.0
+2024-07-01,102,15000.0,Ingreso,Operativo,SaaS Enterprise Annual,15000.0
+2024-07-01,103,6200.0,Ingreso,No Operativo,Consultoria Especializada,6200.0
+2024-07-01,104,480.0,Ingreso,No Operativo,Rendimientos Financieros,480.0
+2024-07-01,201,22000.0,Egreso,Operativo,Nomina Core Team,-22000.0
+2024-07-01,202,5300.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-5300.0
+2024-07-01,203,2450.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-2450.0
+2024-07-01,204,8200.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-8200.0
+2024-07-01,205,3000.0,Egreso,Marketing,Agencia & Diseño,-3000.0
+2024-07-01,206,1500.0,Egreso,Administrativo,Legal & Contabilidad,-1500.0
+2024-07-01,207,1100.0,Egreso,Administrativo,Oficina & Suministros,-1100.0
+2024-08-01,101,35100.0,Ingreso,Operativo,SaaS Monthly Subscription,35100.0
+2024-08-01,102,15000.0,Ingreso,Operativo,SaaS Enterprise Annual,15000.0
+2024-08-01,103,9100.0,Ingreso,No Operativo,Consultoria Especializada,9100.0
+2024-08-01,104,510.0,Ingreso,No Operativo,Rendimientos Financieros,510.0
+2024-08-01,201,22000.0,Egreso,Operativo,Nomina Core Team,-22000.0
+2024-08-01,202,5200.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-5200.0
+2024-08-01,203,2450.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-2450.0
+2024-08-01,204,7900.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-7900.0
+2024-08-01,205,3000.0,Egreso,Marketing,Agencia & Diseño,-3000.0
+2024-08-01,206,1500.0,Egreso,Administrativo,Legal & Contabilidad,-1500.0
+2024-08-01,207,1400.0,Egreso,Administrativo,Oficina & Suministros,-1400.0
+2024-09-01,101,38000.0,Ingreso,Operativo,SaaS Monthly Subscription,38000.0
+2024-09-01,102,22000.0,Ingreso,Operativo,SaaS Enterprise Annual,22000.0
+2024-09-01,103,4000.0,Ingreso,No Operativo,Consultoria Especializada,4000.0
+2024-09-01,104,550.0,Ingreso,No Operativo,Rendimientos Financieros,550.0
+2024-09-01,201,25000.0,Egreso,Operativo,Nomina Core Team,-25000.0
+2024-09-01,202,5800.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-5800.0
+2024-09-01,203,2800.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-2800.0
+2024-09-01,204,9500.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-9500.0
+2024-09-01,205,3500.0,Egreso,Marketing,Agencia & Diseño,-3500.0
+2024-09-01,206,1500.0,Egreso,Administrativo,Legal & Contabilidad,-1500.0
+2024-09-01,207,1350.0,Egreso,Administrativo,Oficina & Suministros,-1350.0
+2024-10-01,101,40200.0,Ingreso,Operativo,SaaS Monthly Subscription,40200.0
+2024-10-01,102,22000.0,Ingreso,Operativo,SaaS Enterprise Annual,22000.0
+2024-10-01,103,5500.0,Ingreso,No Operativo,Consultoria Especializada,5500.0
+2024-10-01,104,530.0,Ingreso,No Operativo,Rendimientos Financieros,530.0
+2024-10-01,201,25000.0,Egreso,Operativo,Nomina Core Team,-25000.0
+2024-10-01,202,6100.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-6100.0
+2024-10-01,203,2850.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-2850.0
+2024-10-01,204,11000.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-11000.0
+2024-10-01,205,3500.0,Egreso,Marketing,Agencia & Diseño,-3500.0
+2024-10-01,206,1600.0,Egreso,Administrativo,Legal & Contabilidad,-1600.0
+2024-10-01,207,1600.0,Egreso,Administrativo,Oficina & Suministros,-1600.0
+2024-11-01,101,43000.0,Ingreso,Operativo,SaaS Monthly Subscription,43000.0
+2024-11-01,102,22000.0,Ingreso,Operativo,SaaS Enterprise Annual,22000.0
+2024-11-01,103,7200.0,Ingreso,No Operativo,Consultoria Especializada,7200.0
+2024-11-01,104,590.0,Ingreso,No Operativo,Rendimientos Financieros,590.0
+2024-11-01,201,25000.0,Egreso,Operativo,Nomina Core Team,-25000.0
+2024-11-01,202,6400.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-6400.0
+2024-11-01,203,2900.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-2900.0
+2024-11-01,204,12500.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-12500.0
+2024-11-01,205,3500.0,Egreso,Marketing,Agencia & Diseño,-3500.0
+2024-11-01,206,1500.0,Egreso,Administrativo,Legal & Contabilidad,-1500.0
+2024-11-01,207,1800.0,Egreso,Administrativo,Oficina & Suministros,-1800.0
+2024-12-01,101,45800.0,Ingreso,Operativo,SaaS Monthly Subscription,45800.0
+2024-12-01,102,30000.0,Ingreso,Operativo,SaaS Enterprise Annual,30000.0
+2024-12-01,103,11000.0,Ingreso,No Operativo,Consultoria Especializada,11000.0
+2024-12-01,104,620.0,Ingreso,No Operativo,Rendimientos Financieros,620.0
+2024-12-01,201,28000.0,Egreso,Operativo,Nomina Core Team,-28000.0
+2024-12-01,202,6900.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-6900.0
+2024-12-01,203,3100.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-3100.0
+2024-12-01,204,14000.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-14000.0
+2024-12-01,205,4000.0,Egreso,Marketing,Agencia & Diseño,-4000.0
+2024-12-01,206,2200.0,Egreso,Administrativo,Legal & Contabilidad,-2200.0
+2024-12-01,207,2500.0,Egreso,Administrativo,Oficina & Suministros,-2500.0
+2025-01-01,101,44000.0,Ingreso,Operativo,SaaS Monthly Subscription,44000.0
+2025-01-01,102,30000.0,Ingreso,Operativo,SaaS Enterprise Annual,30000.0
+2025-01-01,103,3000.0,Ingreso,No Operativo,Consultoria Especializada,3000.0
+2025-01-01,104,600.0,Ingreso,No Operativo,Rendimientos Financieros,600.0
+2025-01-01,201,28000.0,Egreso,Operativo,Nomina Core Team,-28000.0
+2025-01-01,202,6500.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-6500.0
+2025-01-01,203,3200.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-3200.0
+2025-01-01,204,9000.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-9000.0
+2025-01-01,205,3000.0,Egreso,Marketing,Agencia & Diseño,-3000.0
+2025-01-01,206,1500.0,Egreso,Administrativo,Legal & Contabilidad,-1500.0
+2025-01-01,207,1300.0,Egreso,Administrativo,Oficina & Suministros,-1300.0
+2025-02-01,101,46500.0,Ingreso,Operativo,SaaS Monthly Subscription,46500.0
+2025-02-01,102,30000.0,Ingreso,Operativo,SaaS Enterprise Annual,30000.0
+2025-02-01,103,4500.0,Ingreso,No Operativo,Consultoria Especializada,4500.0
+2025-02-01,104,640.0,Ingreso,No Operativo,Rendimientos Financieros,640.0
+2025-02-01,201,28000.0,Egreso,Operativo,Nomina Core Team,-28000.0
+2025-02-01,202,6700.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-6700.0
+2025-02-01,203,3250.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-3250.0
+2025-02-01,204,9500.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-9500.0
+2025-02-01,205,3000.0,Egreso,Marketing,Agencia & Diseño,-3000.0
+2025-02-01,206,1500.0,Egreso,Administrativo,Legal & Contabilidad,-1500.0
+2025-02-01,207,1400.0,Egreso,Administrativo,Oficina & Suministros,-1400.0
+2025-03-01,101,49100.0,Ingreso,Operativo,SaaS Monthly Subscription,49100.0
+2025-03-01,102,35000.0,Ingreso,Operativo,SaaS Enterprise Annual,35000.0
+2025-03-01,103,6000.0,Ingreso,No Operativo,Consultoria Especializada,6000.0
+2025-03-01,104,710.0,Ingreso,No Operativo,Rendimientos Financieros,710.0
+2025-03-01,201,32000.0,Egreso,Operativo,Nomina Core Team,-32000.0
+2025-03-01,202,7100.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-7100.0
+2025-03-01,203,3500.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-3500.0
+2025-03-01,204,11000.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-11000.0
+2025-03-01,205,3500.0,Egreso,Marketing,Agencia & Diseño,-3500.0
+2025-03-01,206,1800.0,Egreso,Administrativo,Legal & Contabilidad,-1800.0
+2025-03-01,207,1650.0,Egreso,Administrativo,Oficina & Suministros,-1650.0
+2025-04-01,101,52000.0,Ingreso,Operativo,SaaS Monthly Subscription,52000.0
+2025-04-01,102,35000.0,Ingreso,Operativo,SaaS Enterprise Annual,35000.0
+2025-04-01,103,5000.0,Ingreso,No Operativo,Consultoria Especializada,5000.0
+2025-04-01,104,750.0,Ingreso,No Operativo,Rendimientos Financieros,750.0
+2025-04-01,201,32000.0,Egreso,Operativo,Nomina Core Team,-32000.0
+2025-04-01,202,7300.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-7300.0
+2025-04-01,203,3600.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-3600.0
+2025-04-01,204,11500.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-11500.0
+2025-04-01,205,3500.0,Egreso,Marketing,Agencia & Diseño,-3500.0
+2025-04-01,206,1500.0,Egreso,Administrativo,Legal & Contabilidad,-1500.0
+2025-04-01,207,1500.0,Egreso,Administrativo,Oficina & Suministros,-1500.0
+2025-05-01,101,55300.0,Ingreso,Operativo,SaaS Monthly Subscription,55300.0
+2025-05-01,102,35000.0,Ingreso,Operativo,SaaS Enterprise Annual,35000.0
+2025-05-01,103,8500.0,Ingreso,No Operativo,Consultoria Especializada,8500.0
+2025-05-01,104,820.0,Ingreso,No Operativo,Rendimientos Financieros,820.0
+2025-05-01,201,32000.0,Egreso,Operativo,Nomina Core Team,-32000.0
+2025-05-01,202,7800.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-7800.0
+2025-05-01,203,3650.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-3650.0
+2025-05-01,204,13000.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-13000.0
+2025-05-01,205,3500.0,Egreso,Marketing,Agencia & Diseño,-3500.0
+2025-05-01,206,1500.0,Egreso,Administrativo,Legal & Contabilidad,-1500.0
+2025-05-01,207,1900.0,Egreso,Administrativo,Oficina & Suministros,-1900.0
+2025-06-01,101,58000.0,Ingreso,Operativo,SaaS Monthly Subscription,58000.0
+2025-06-01,102,45000.0,Ingreso,Operativo,SaaS Enterprise Annual,45000.0
+2025-06-01,103,4500.0,Ingreso,No Operativo,Consultoria Especializada,4500.0
+2025-06-01,104,890.0,Ingreso,No Operativo,Rendimientos Financieros,890.0
+2025-06-01,201,36000.0,Egreso,Operativo,Nomina Core Team,-36000.0
+2025-06-01,202,8200.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-8200.0
+2025-06-01,203,4100.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-4100.0
+2025-06-01,204,14000.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-14000.0
+2025-06-01,205,4500.0,Egreso,Marketing,Agencia & Diseño,-4500.0
+2025-06-01,206,2000.0,Egreso,Administrativo,Legal & Contabilidad,-2000.0
+2025-06-01,207,2100.0,Egreso,Administrativo,Oficina & Suministros,-2100.0
+2025-07-01,101,61200.0,Ingreso,Operativo,SaaS Monthly Subscription,61200.0
+2025-07-01,102,45000.0,Ingreso,Operativo,SaaS Enterprise Annual,45000.0
+2025-07-01,103,3000.0,Ingreso,No Operativo,Consultoria Especializada,3000.0
+2025-07-01,104,930.0,Ingreso,No Operativo,Rendimientos Financieros,930.0
+2025-07-01,201,36000.0,Egreso,Operativo,Nomina Core Team,-36000.0
+2025-07-01,202,8500.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-8500.0
+2025-07-01,203,4150.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-4150.0
+2025-07-01,204,14500.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-14500.0
+2025-07-01,205,4500.0,Egreso,Marketing,Agencia & Diseño,-4500.0
+2025-07-01,206,2000.0,Egreso,Administrativo,Legal & Contabilidad,-2000.0
+2025-07-01,207,1950.0,Egreso,Administrativo,Oficina & Suministros,-1950.0
+2025-08-01,101,64000.0,Ingreso,Operativo,SaaS Monthly Subscription,64000.0
+2025-08-01,102,45000.0,Ingreso,Operativo,SaaS Enterprise Annual,45000.0
+2025-08-01,103,7500.0,Ingreso,No Operativo,Consultoria Especializada,7500.0
+2025-08-01,104,980.0,Ingreso,No Operativo,Rendimientos Financieros,980.0
+2025-08-01,201,36000.0,Egreso,Operativo,Nomina Core Team,-36000.0
+2025-08-01,202,8400.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-8400.0
+2025-08-01,203,4200.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-4200.0
+2025-08-01,204,13800.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-13800.0
+2025-08-01,205,4500.0,Egreso,Marketing,Agencia & Diseño,-4500.0
+2025-08-01,206,2000.0,Egreso,Administrativo,Legal & Contabilidad,-2000.0
+2025-08-01,207,2200.0,Egreso,Administrativo,Oficina & Suministros,-2200.0
+2025-09-01,101,66500.0,Ingreso,Operativo,SaaS Monthly Subscription,66500.0
+2025-09-01,102,50000.0,Ingreso,Operativo,SaaS Enterprise Annual,50000.0
+2025-09-01,103,9000.0,Ingreso,No Operativo,Consultoria Especializada,9000.0
+2025-09-01,104,1050.0,Ingreso,No Operativo,Rendimientos Financieros,1050.0
+2025-09-01,201,40000.0,Egreso,Operativo,Nomina Core Team,-40000.0
+2025-09-01,202,8900.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-8900.0
+2025-09-01,203,4600.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-4600.0
+2025-09-01,204,16000.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-16000.0
+2025-09-01,205,5000.0,Egreso,Marketing,Agencia & Diseño,-5000.0
+2025-09-01,206,2500.0,Egreso,Administrativo,Legal & Contabilidad,-2500.0
+2025-09-01,207,2400.0,Egreso,Administrativo,Oficina & Suministros,-2400.0
+2025-10-01,101,69000.0,Ingreso,Operativo,SaaS Monthly Subscription,69000.0
+2025-10-01,102,50000.0,Ingreso,Operativo,SaaS Enterprise Annual,50000.0
+2025-10-01,103,6200.0,Ingreso,No Operativo,Consultoria Especializada,6200.0
+2025-10-01,104,1100.0,Ingreso,No Operativo,Rendimientos Financieros,1100.0
+2025-10-01,201,40000.0,Egreso,Operativo,Nomina Core Team,-40000.0
+2025-10-01,202,9100.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-9100.0
+2025-10-01,203,4700.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-4700.0
+2025-10-01,204,16500.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-16500.0
+2025-10-01,205,5000.0,Egreso,Marketing,Agencia & Diseño,-5000.0
+2025-10-01,206,2500.0,Egreso,Administrativo,Legal & Contabilidad,-2500.0
+2025-10-01,207,2500.0,Egreso,Administrativo,Oficina & Suministros,-2500.0
+2025-11-01,101,72300.0,Ingreso,Operativo,SaaS Monthly Subscription,72300.0
+2025-11-01,102,50000.0,Ingreso,Operativo,SaaS Enterprise Annual,50000.0
+2025-11-01,103,8000.0,Ingreso,No Operativo,Consultoria Especializada,8000.0
+2025-11-01,104,1180.0,Ingreso,No Operativo,Rendimientos Financieros,1180.0
+2025-11-01,201,40000.0,Egreso,Operativo,Nomina Core Team,-40000.0
+2025-11-01,202,9400.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-9400.0
+2025-11-01,203,4750.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-4750.0
+2025-11-01,204,17500.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-17500.0
+2025-11-01,205,5000.0,Egreso,Marketing,Agencia & Diseño,-5000.0
+2025-11-01,206,2500.0,Egreso,Administrativo,Legal & Contabilidad,-2500.0
+2025-11-01,207,2700.0,Egreso,Administrativo,Oficina & Suministros,-2700.0
+2025-12-01,101,76000.0,Ingreso,Operativo,SaaS Monthly Subscription,76000.0
+2025-12-01,102,60000.0,Ingreso,Operativo,SaaS Enterprise Annual,60000.0
+2025-12-01,103,15000.0,Ingreso,No Operativo,Consultoria Especializada,15000.0
+2025-12-01,104,1250.0,Ingreso,No Operativo,Rendimientos Financieros,1250.0
+2025-12-01,201,45000.0,Egreso,Operativo,Nomina Core Team,-45000.0
+2025-12-01,202,10200.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-10200.0
+2025-12-01,203,5100.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-5100.0
+2025-12-01,204,20000.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-20000.0
+2025-12-01,205,6000.0,Egreso,Marketing,Agencia & Diseño,-6000.0
+2025-12-01,206,3500.0,Egreso,Administrativo,Legal & Contabilidad,-3500.0
+2025-12-01,207,3800.0,Egreso,Administrativo,Oficina & Suministros,-3800.0
+2026-01-01,101,74500.0,Ingreso,Operativo,SaaS Monthly Subscription,74500.0
+2026-01-01,102,60000.0,Ingreso,Operativo,SaaS Enterprise Annual,60000.0
+2026-01-01,103,4000.0,Ingreso,No Operativo,Consultoria Especializada,4000.0
+2026-01-01,104,1200.0,Ingreso,No Operativo,Rendimientos Financieros,1200.0
+2026-01-01,201,45000.0,Egreso,Operativo,Nomina Core Team,-45000.0
+2026-01-01,202,9800.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-9800.0
+2026-01-01,203,5200.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-5200.0
+2026-01-01,204,13000.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-13000.0
+2026-01-01,205,4500.0,Egreso,Marketing,Agencia & Diseño,-4500.0
+2026-01-01,206,2500.0,Egreso,Administrativo,Legal & Contabilidad,-2500.0
+2026-01-01,207,2000.0,Egreso,Administrativo,Oficina & Suministros,-2000.0
+2026-02-01,101,78000.0,Ingreso,Operativo,SaaS Monthly Subscription,78000.0
+2026-02-01,102,60000.0,Ingreso,Operativo,SaaS Enterprise Annual,60000.0
+2026-02-01,103,5500.0,Ingreso,No Operativo,Consultoria Especializada,5500.0
+2026-02-01,104,1280.0,Ingreso,No Operativo,Rendimientos Financieros,1280.0
+2026-02-01,201,45000.0,Egreso,Operativo,Nomina Core Team,-45000.0
+2026-02-01,202,10100.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-10100.0
+2026-02-01,203,5300.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-5300.0
+2026-02-01,204,14000.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-14000.0
+2026-02-01,205,4500.0,Egreso,Marketing,Agencia & Diseño,-4500.0
+2026-02-01,206,2500.0,Egreso,Administrativo,Legal & Contabilidad,-2500.0
+2026-02-01,207,2200.0,Egreso,Administrativo,Oficina & Suministros,-2200.0
+2026-03-01,101,82100.0,Ingreso,Operativo,SaaS Monthly Subscription,82100.0
+2026-03-01,102,65000.0,Ingreso,Operativo,SaaS Enterprise Annual,65000.0
+2026-03-01,103,8000.0,Ingreso,No Operativo,Consultoria Especializada,8000.0
+2026-03-01,104,1350.0,Ingreso,No Operativo,Rendimientos Financieros,1350.0
+2026-03-01,201,50000.0,Egreso,Operativo,Nomina Core Team,-50000.0
+2026-03-01,202,10800.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-10800.0
+2026-03-01,203,5800.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-5800.0
+2026-03-01,204,16500.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-16500.0
+2026-03-01,205,5000.0,Egreso,Marketing,Agencia & Diseño,-5000.0
+2026-03-01,206,2800.0,Egreso,Administrativo,Legal & Contabilidad,-2800.0
+2026-03-01,207,2400.0,Egreso,Administrativo,Oficina & Suministros,-2400.0
+2026-04-01,101,85000.0,Ingreso,Operativo,SaaS Monthly Subscription,85000.0
+2026-04-01,102,65000.0,Ingreso,Operativo,SaaS Enterprise Annual,65000.0
+2026-04-01,103,6500.0,Ingreso,No Operativo,Consultoria Especializada,6500.0
+2026-04-01,104,1410.0,Ingreso,No Operativo,Rendimientos Financieros,1410.0
+2026-04-01,201,50000.0,Egreso,Operativo,Nomina Core Team,-50000.0
+2026-04-01,202,11100.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-11100.0
+2026-04-01,203,5900.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-5900.0
+2026-04-01,204,17000.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-17000.0
+2026-04-01,205,5000.0,Egreso,Marketing,Agencia & Diseño,-5000.0
+2026-04-01,206,2500.0,Egreso,Administrativo,Legal & Contabilidad,-2500.0
+2026-04-01,207,2300.0,Egreso,Administrativo,Oficina & Suministros,-2300.0
+2026-05-01,101,89500.0,Ingreso,Operativo,SaaS Monthly Subscription,89500.0
+2026-05-01,102,65000.0,Ingreso,Operativo,SaaS Enterprise Annual,65000.0
+2026-05-01,103,9500.0,Ingreso,No Operativo,Consultoria Especializada,9500.0
+2026-05-01,104,1500.0,Ingreso,No Operativo,Rendimientos Financieros,1500.0
+2026-05-01,201,50000.0,Egreso,Operativo,Nomina Core Team,-50000.0
+2026-05-01,202,11700.0,Egreso,Operativo,Infraestructura Cloud (AWS/GCP),-11700.0
+2026-05-01,203,6100.0,Egreso,Operativo,Herramientas SaaS (Hubspot/Slack),-6100.0
+2026-05-01,204,19000.0,Egreso,Marketing,Paid Media (Google/Meta Ads),-19000.0
+2026-05-01,205,5000.0,Egreso,Marketing,Agencia & Diseño,-5000.0
+2026-05-01,206,2500.0,Egreso,Administrativo,Legal & Contabilidad,-2500.0
+2026-05-01,207,2600.0,Egreso,Administrativo,Oficina & Suministros,-2600.0
